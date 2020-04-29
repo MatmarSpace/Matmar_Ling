@@ -5,7 +5,7 @@ Do odpalenia programu potrzebujemy pliku txt z wprowadzonymi słówkami w notatn
 
 ![Image description](/plik_txt.png)
 
-Po odpaleniu programu plik wczytujemy podając jego nazwę (bez rozszerzebia pliku)...
+Po odpaleniu programu plik wczytujemy podając jego nazwę (bez rozszerzenia pliku)...
 
 ![Image description](/włoski_kuchnia_itp.png)
 
