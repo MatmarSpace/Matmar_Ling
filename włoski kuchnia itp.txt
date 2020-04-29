@@ -1,0 +1,34 @@
+przepis;la ricetta
+kuchnia;la cucina
+gotować (przyrządzać coś w kuchni);cucinare
+brać;prendere
+mieszkać;mescolare
+połączyć;unire
+dodać;aggiungere
+piec / gotować;cuocere
+kroić w plastry;affettare
+kroić;tagliare
+gotować (np. wodę);bollire
+smażyć na patelni;friggere
+odcedzić;scolare
+wyrobić ciasto;impastare
+solić;salare
+słodzić;zuccherare
+dodać pieprzu;pepare
+ubijać (jajka);sbattere
+wlać;versare
+danie;il piatto
+garnek;la pentola
+patelnia;la padella
+miska;la ciotola
+blaszka / forma;la teglia
+(tu:) ile zabierze;quanto basta
+mąka;la farina
+słodki;dolce
+słony;salato
+owoce (jedyna poprawna forma);la frutta
+przystawka;l'antipasto
+pierwsze danie;il primo piatto
+drugie danie;il secondo piatto
+jajko;l'uovo
+jajka;le uova
