@@ -1,6 +1,5 @@
 # Matmar_Ling
 Program do nauki słówek z języków obcych
-Matmar_Ling_zdjęcie.png
 
 Do odpalenia programu potrzebujemy pliku txt z wprowadzonymi słówkami w notatniku... Na początek polskie tłumaczenie, a po średniku wersja słówka w języku obcym... Plik .txt musi być umieszczony w tym samym folderze co plik .exe
 
